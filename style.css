@@ -18,3 +18,9 @@ img {
     height: 70%;
     width: 30%;
 }
+body {
+    background-image: url(./drg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
